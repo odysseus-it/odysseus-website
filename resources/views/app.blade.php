@@ -16,7 +16,22 @@
 
     @include('component.about')
 
-    @include('')
+
+    @include('component.features')
+
+    @include('component.service')
+
+    @include('component.works')
+
+    @include('component.testimonial')
+
+    @include('component.coundown')
+
+    @include('component.team')
+
+    @include('component.pricing')
+
+    @include('component.blog')
 
     @include('component.contact')
     @include('component.footer')
