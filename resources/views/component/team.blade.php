@@ -19,9 +19,9 @@
                             <h4>Michael Dawson</h4>
                             <p>Designer</p>
                             <ul class="social">
-                                <li><a href=""><i class="fa fa-facebook facebook"></i></a></li>
+                                <li><a href=""><i class="fab fa-facebook-f facebook"></i></a></li>
                                 <li><a href=""><i class="fa fa-twitter twitter"></i></a></li>
-                                <li><a href=""><i class="fa fa-google-plus google"></i></a></li>
+                                <li><a href=""><i class="fab fa-github github"></i></a></li>
                                 <li><a href=""><i class="fa fa-linkedin linkedin"></i></a></li>
                             </ul>
                         </div>
@@ -41,7 +41,7 @@
                             <ul class="social">
                                 <li><a href=""><i class="fa fa-facebook facebook"></i></a></li>
                                 <li><a href=""><i class="fa fa-twitter twitter"></i></a></li>
-                                <li><a href=""><i class="fa fa-google-plus google"></i></a></li>
+                                <li><a href=""><i class="fab fa-github github"></i></a></li>
                                 <li><a href=""><i class="fa fa-linkedin linkedin"></i></a></li>
                             </ul>
                         </div>
@@ -61,7 +61,7 @@
                             <ul class="social">
                                 <li><a href=""><i class="fa fa-facebook facebook"></i></a></li>
                                 <li><a href=""><i class="fa fa-twitter twitter"></i></a></li>
-                                <li><a href=""><i class="fa fa-google-plus google"></i></a></li>
+                                <li><a href=""><i class="fa fa-fab fa-github github"></i></a></li>
                                 <li><a href=""><i class="fa fa-linkedin linkedin"></i></a></li>
                             </ul>
                         </div>
@@ -81,7 +81,7 @@
                             <ul class="social">
                                 <li><a href=""><i class="fa fa-facebook facebook"></i></a></li>
                                 <li><a href=""><i class="fa fa-twitter twitter"></i></a></li>
-                                <li><a href=""><i class="fa fa-google-plus google"></i></a></li>
+                                <li><a href=""><i class="fab fa-github github"></i></a></li>
                                 <li><a href=""><i class="fa fa-linkedin linkedin"></i></a></li>
                             </ul>
                         </div>
