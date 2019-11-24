@@ -20,9 +20,9 @@
                             <p>Designer</p>
                             <ul class="social">
                                 <li><a href=""><i class="fab fa-facebook-f facebook"></i></a></li>
-                                <li><a href=""><i class="fa fa-twitter twitter"></i></a></li>
+                                <li><a href=""><i class="fab fa-twitter twitter"></i></a></li>
                                 <li><a href=""><i class="fab fa-github github"></i></a></li>
-                                <li><a href=""><i class="fa fa-linkedin linkedin"></i></a></li>
+                                <li><a href=""><i class="fab fa-linkedin linkedin"></i></a></li>
                             </ul>
                         </div>
                     </div>
@@ -39,10 +39,10 @@
                             <h4>Chris Mcgee</h4>
                             <p>Marketer</p>
                             <ul class="social">
-                                <li><a href=""><i class="fa fa-facebook facebook"></i></a></li>
-                                <li><a href=""><i class="fa fa-twitter twitter"></i></a></li>
+                                <li><a href=""><i class="fab fa-facebook facebook"></i></a></li>
+                                <li><a href=""><i class="fab fa-twitter twitter"></i></a></li>
                                 <li><a href=""><i class="fab fa-github github"></i></a></li>
-                                <li><a href=""><i class="fa fa-linkedin linkedin"></i></a></li>
+                                <li><a href=""><i class="fab fa-linkedin linkedin"></i></a></li>
                             </ul>
                         </div>
                     </div>
@@ -59,10 +59,10 @@
                             <h4>Francisco Soto</h4>
                             <p>CEO</p>
                             <ul class="social">
-                                <li><a href=""><i class="fa fa-facebook facebook"></i></a></li>
-                                <li><a href=""><i class="fa fa-twitter twitter"></i></a></li>
-                                <li><a href=""><i class="fa fa-fab fa-github github"></i></a></li>
-                                <li><a href=""><i class="fa fa-linkedin linkedin"></i></a></li>
+                                <li><a href=""><i class="fab fa-facebook facebook"></i></a></li>
+                                <li><a href=""><i class="fab fa-twitter twitter"></i></a></li>
+                                <li><a href=""><i class="fab fa-fab fa-github github"></i></a></li>
+                                <li><a href=""><i class="fab fa-linkedin linkedin"></i></a></li>
                             </ul>
                         </div>
                     </div>
@@ -79,10 +79,10 @@
                             <h4>Michael Dawson</h4>
                             <p>Programmer</p>
                             <ul class="social">
-                                <li><a href=""><i class="fa fa-facebook facebook"></i></a></li>
-                                <li><a href=""><i class="fa fa-twitter twitter"></i></a></li>
+                                <li><a href=""><i class="fab fa-facebook facebook"></i></a></li>
+                                <li><a href=""><i class="fab fa-twitter twitter"></i></a></li>
                                 <li><a href=""><i class="fab fa-github github"></i></a></li>
-                                <li><a href=""><i class="fa fa-linkedin linkedin"></i></a></li>
+                                <li><a href=""><i class="fab fa-linkedin linkedin"></i></a></li>
                             </ul>
                         </div>
                     </div>
