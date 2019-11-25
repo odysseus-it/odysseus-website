@@ -16,7 +16,7 @@
             </div><!-- END COL -->
             <div class="col-md-3 col-sm-6 col-xs-12">
                 <div class="service">
-                    <div class="icon"><i class="fa fa-connectdevelop"></i></div>
+                    <div class="icon"><i class="fab fa-connectdevelop"></i></div>
                     <h4>Development</h4>
                     <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.</p>
                 </div>

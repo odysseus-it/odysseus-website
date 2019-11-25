@@ -12,14 +12,14 @@
                  data-wow-offset="0">
                 <div class="single_team">
                     <div class="team_img">
-                        <img src="assets/img/team/team-1.jpg" class="img-responsive" alt=""/>
+                        <img src="assets/img/team/denis.jpg" class="img-responsive" alt=""/>
                     </div>
                     <div class="team_text">
                         <div class="team_text_inner">
-                            <h4>Michael Dawson</h4>
+                            <h4>Denis Proskurin</h4>
                             <p>Designer</p>
                             <ul class="social">
-                                <li><a href=""><i class="fab fa-facebook-f facebook"></i></a></li>
+                                <li><a href=""><i class="fab fa-figma figma"></i></a></li>
                                 <li><a href=""><i class="fab fa-twitter twitter"></i></a></li>
                                 <li><a href=""><i class="fab fa-github github"></i></a></li>
                                 <li><a href=""><i class="fab fa-linkedin linkedin"></i></a></li>
@@ -32,12 +32,12 @@
                  data-wow-offset="0">
                 <div class="single_team">
                     <div class="team_img">
-                        <img src="assets/img/team/team-2.jpg" alt=""/>
+                        <img src="assets/img/team/msh1.jpg" alt=""/>
                     </div>
                     <div class="team_text">
                         <div class="team_text_inner">
-                            <h4>Chris Mcgee</h4>
-                            <p>Marketer</p>
+                            <h4>Maria Lapturova</h4>
+                            <p>Front-End Developer</p>
                             <ul class="social">
                                 <li><a href=""><i class="fab fa-facebook facebook"></i></a></li>
                                 <li><a href=""><i class="fab fa-twitter twitter"></i></a></li>
@@ -52,11 +52,11 @@
                  data-wow-offset="0">
                 <div class="single_team">
                     <div class="team_img">
-                        <img src="assets/img/team/team-3.jpg" class="img-responsive" alt=""/>
+                        <img src="assets/img/team/serega1.jpg" class="img-responsive" alt=""/>
                     </div>
                     <div class="team_text">
                         <div class="team_text_inner">
-                            <h4>Francisco Soto</h4>
+                            <h4>Sergey Gnip</h4>
                             <p>CEO</p>
                             <ul class="social">
                                 <li><a href=""><i class="fab fa-facebook facebook"></i></a></li>
@@ -72,11 +72,11 @@
                  data-wow-offset="0">
                 <div class="single_team">
                     <div class="team_img">
-                        <img src="assets/img/team/team-4.jpg" class="img-responsive" alt=""/>
+                        <img src="assets/img/team/sashyaaaaa.jpg" class="img-responsive" alt=""/>
                     </div>
                     <div class="team_text">
                         <div class="team_text_inner">
-                            <h4>Michael Dawson</h4>
+                            <h4>Alexander Ignatushin</h4>
                             <p>Programmer</p>
                             <ul class="social">
                                 <li><a href=""><i class="fab fa-facebook facebook"></i></a></li>

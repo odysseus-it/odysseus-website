@@ -24,7 +24,7 @@
             </div><!-- END COL  -->
             <div class="col-md-3 col-sm-6 col-xs-12">
                 <div class="single_address">
-                    <i class="fa fa-clock-o"></i>
+                    <i class="fa fa-clock"></i>
                     <p>Mon - Fri: 08.00 - 16.00</p>
                     <p>Mon - Fri: 08.00 - 16.00</p>
                 </div>

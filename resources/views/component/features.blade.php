@@ -9,7 +9,7 @@
             </div>
             <div class="col-md-3 col-sm-3 col-xs-12 no-padding">
                 <div class="single_feature single_feature_color_one">
-                    <i class="fa fa-lightbulb-o"></i>
+                    <i class="fa fa-lightbulb"></i>
                     <h4>Web Design</h4>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae risus nec dui venenatis.</p>
                 </div>
@@ -30,7 +30,7 @@
             </div><!-- END COL -->
             <div class="col-md-3 col-sm-3 col-xs-12 no-padding">
                 <div class="single_feature single_feature_color_four">
-                    <i class="fa fa-sun-o"></i>
+                    <i class="fa fa-sun"></i>
                     <h4>Marketing</h4>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae risus nec dui venenatis.</p>
                 </div>

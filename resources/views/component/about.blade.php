@@ -38,7 +38,7 @@
             <div class="col-md-3 col-sm-3 col-xs-12">
                 <div class="about_single wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.1s"
                      data-wow-offset="0">
-                    <i class="fa fa-building-o"></i>
+                    <i class="fa fa-building"></i>
                     <h4>Our process</h4>
                     <span></span>
                     <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr sed diam nonumy.</p>
