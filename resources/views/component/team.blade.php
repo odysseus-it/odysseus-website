@@ -19,9 +19,9 @@
                             <h4>Denis Proskurin</h4>
                             <p>Designer</p>
                             <ul class="social">
-                                <li><a href=""><i class="fab fa-figma figma"></i></a></li>
-                                <li><a href=""><i class="fab fa-twitter twitter"></i></a></li>
-                                <li><a href=""><i class="fab fa-github github"></i></a></li>
+                                <li><a href="https://www.figma.com/file/WJeUzL8mSJUljnQu98tMFE/Projects?node-id=0%3A1" target="_blank" alt="Figma"><i class="fab fa-figma figma"></i></a></li>
+                                <li><a href="https://twitter.com/dunkansvg" target="_blank"><i class="fab fa-twitter twitter"></i></a></li>
+                                <li><a href="https://github.com/DunkanProsk" target="_blank"><i class="fab fa-github github"></i></a></li>
                                 <li><a href=""><i class="fab fa-linkedin linkedin"></i></a></li>
                             </ul>
                         </div>
@@ -61,8 +61,8 @@
                             <ul class="social">
                                 <li><a href=""><i class="fab fa-facebook facebook"></i></a></li>
                                 <li><a href=""><i class="fab fa-twitter twitter"></i></a></li>
-                                <li><a href=""><i class="fab fa-fab fa-github github"></i></a></li>
-                                <li><a href=""><i class="fab fa-linkedin linkedin"></i></a></li>
+                                <li><a href="https://github.com/lalajon" target="_blank"><i class="fab fa-fab fa-github github"></i></a></li>
+                                <li><a href="https://www.linkedin.com/in/gnip/" target="_blank"><i class="fab fa-linkedin linkedin"></i></a></li>
                             </ul>
                         </div>
                     </div>
@@ -81,8 +81,8 @@
                             <ul class="social">
                                 <li><a href=""><i class="fab fa-facebook facebook"></i></a></li>
                                 <li><a href=""><i class="fab fa-twitter twitter"></i></a></li>
-                                <li><a href=""><i class="fab fa-github github"></i></a></li>
-                                <li><a href=""><i class="fab fa-linkedin linkedin"></i></a></li>
+                                <li><a href="https://github.com/alexandrignatushin" target="_blank"><i class="fab fa-github github"></i></a></li>
+                                <li><a href="https://www.linkedin.com/in/alexandr-ignatushin-864939195/" target="_blank"><i class="fab fa-linkedin linkedin"></i></a></li>
                             </ul>
                         </div>
                     </div>

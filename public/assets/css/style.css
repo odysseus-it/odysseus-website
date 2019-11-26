@@ -1348,6 +1348,16 @@ padding: 20px 0;
     box-shadow: 0 0 0 0px #00AFF0;
     border: 1px solid #00AFF0;
 }
+.f_instagram:hover {
+    background: #c13584;
+    box-shadow: 0 0 0 0px #c13584;
+    border: 1px solid #c13584;
+}
+.f_github:hover{
+    background: #24292e;
+    box-shadow: 0 0 0 0px #24292e;
+    border: 1px solid #24292e;
+}
 /*END FOOTER SOCIAL DESIGN*/
 .copyright p {
     border-top: 1px solid #1f2428;
