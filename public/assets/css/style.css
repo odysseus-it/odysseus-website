@@ -1359,10 +1359,9 @@ padding: 20px 0;
     border: 1px solid #24292e;
 }
 .f_upwork:hover {
-    background-image: url(../img/bg/upwork.svg);
-    box-shadow: 0 0 0 0px #24292e;
-    border: 1px solid #24292e;
-    padding: "center";
+    background: #89D75C;
+    box-shadow: 0 0 0 0px #89D75C;
+    border: 1px solid #89D75C;
    
     
 }
