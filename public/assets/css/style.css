@@ -291,15 +291,15 @@ fieldset {
     z-index: -1;
 }
 .slide-1 {
-    background: url(../img/bg/slide1.jpg) scroll 0 0;
+    background: url(../img/bg/img01.jpg) scroll 0 0;
     background-size: cover;
 }
 .slide-2 {
-    background: url(../img/bg/slide2.jpg) scroll 0 0;
+    background: url(../img/bg/slide02.jpg) scroll 0 0;
     background-size: cover;
 }
 .slide-3 {
-    background: url(../img/bg/slide3.jpg) scroll 0 0;
+    background: url(../img/bg/slide03.jpg) scroll 0 0;
     background-size: cover;
 }
 .carousel-fade .carousel-inner .item {
@@ -1354,7 +1354,7 @@ padding: 20px 0;
     border: 1px solid #c13584;
 }
 .f_github:hover{
-    background: #24292e;
+    background: #444141;
     box-shadow: 0 0 0 0px #24292e;
     border: 1px solid #24292e;
 }
