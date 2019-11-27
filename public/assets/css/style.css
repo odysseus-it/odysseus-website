@@ -1353,10 +1353,18 @@ padding: 20px 0;
     box-shadow: 0 0 0 0px #c13584;
     border: 1px solid #c13584;
 }
-.f_github:hover{
+.f_github:hover {
     background: #444141;
     box-shadow: 0 0 0 0px #24292e;
     border: 1px solid #24292e;
+}
+.f_upwork:hover {
+    background-image: url(../img/bg/upwork.svg);
+    box-shadow: 0 0 0 0px #24292e;
+    border: 1px solid #24292e;
+    padding: "center";
+   
+    
 }
 /*END FOOTER SOCIAL DESIGN*/
 .copyright p {

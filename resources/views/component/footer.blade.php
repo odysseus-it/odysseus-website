@@ -13,7 +13,7 @@
                         <li><a class="f_instagram" href="#"><i class="fab fa-instagram"></i></a></li>
                         <li><a class="f_linkedin" href="#"><i class="fab fa-linkedin"></i></a></li>
                         <li><a class="f_youtube" href="#"><i class="fab fa-youtube"></i></a></li>
-                        <li><a class="f_upwork" href="#"><i class="fab fa-upwork"></i></a></li>
+                        <li><a class="f_upwork" href="#"><i class=""></i></a></li>
                         <li><a class="f_github" href="#"><i class="fab fa-github"></i></a></li>
                     </ul>
                 </div>
