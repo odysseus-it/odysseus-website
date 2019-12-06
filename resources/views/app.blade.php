@@ -16,7 +16,7 @@
 
     @include('component.about')
 
-    @include('component.features')
+    {{-- @include('component.features') --}}
 
     @include('component.service')
 
@@ -30,7 +30,7 @@
 
     @include('component.pricing')
 
-    @include('component.blog')
+    {{-- @include('component.blog') --}}
 
     @include('component.contact')
     @include('component.footer')

@@ -25,8 +25,8 @@
                     <li><a class="page-scroll" href="#service">Service</a></li>
                     <li><a class="page-scroll" href="#portfolio">works</a></li>
                     <li><a class="page-scroll" href="#team">Team</a></li>
-                    <li><a class="page-scroll" href="#pricing">Pricing</a></li>
-                    <li><a class="page-scroll" href="#blog">Blog</a></li>
+                    {{-- <li><a class="page-scroll" href="#pricing">Pricing</a></li> --}}
+                    {{-- <li><a class="page-scroll" href="#blog">Blog</a></li> --}}
                     <li><a class="page-scroll" href="#contact">Contact</a></li>
                 </ul>
             </nav>
