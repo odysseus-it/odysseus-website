@@ -17,7 +17,7 @@
                         <li class="filter" data-filter=".branding">Branding</li>
                         <li class="filter" data-filter=".web">Web</li>
                         <li class="filter" data-filter=".package">Package</li>
-                        <li class="filter" data-filter=".video">Video</li>
+                        {{-- <li class="filter" data-filter=".video">Video</li> --}}
                     </ul>
                 </div>
             </div><!--- END COL -->
@@ -99,7 +99,7 @@
                                 <div class="sing_work_text_link">
                                     <div class="sing_work_content_wrap">
                                         <div class="sing_work_content">
-                                            <h4>Video</h4>
+                                             <h4>Video</h4> 
                                             <p>Lorem ipsum dolor sit amet</p>
                                             <div class="sing_link_img">
                                                 <a href="assets/img/portfolio/4.jpg" class="lightbox search"
