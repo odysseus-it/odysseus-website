@@ -24,11 +24,11 @@
 
     @include('component.testimonial')
 
-    @include('component.coundown')
+    @include('component.stats')
 
     @include('component.team')
 
-    @include('component.pricing')
+    {{-- @include('component.pricing') --}}
 
     {{-- @include('component.blog') --}}
 

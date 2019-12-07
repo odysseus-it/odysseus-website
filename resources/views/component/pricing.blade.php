@@ -1,4 +1,4 @@
-<!--<!-- START PRICING 
+<!-- START PRICING -->
 <section id="pricing" class="pricing-section section-padding">
     <div class="container">
         <div class="row text-center">
@@ -27,7 +27,7 @@
                     </div>
                     <a href="#" class="btn btn-default">Get Start</a>
                 </div>
-            </div><!--- END COL --
+            </div><!-- END COL -->
             <div class="col-sm-3">
                 <div class="pricing-table-default text-center">
                     <div class="pricing-head">
@@ -47,7 +47,7 @@
                     </div>
                     <a href="#" class="btn btn-default">Get Start</a>
                 </div>
-            </div><!--- END COL --
+            </div><!-- END COL -->
             <div class="col-sm-3">
                 <div class="pricing-table-default text-center">
                     <div class="pricing-head">
@@ -67,7 +67,7 @@
                     </div>
                     <a href="#" class="btn btn-default">Get Start</a>
                 </div>
-            </div><!--- END COL --
+            </div><!-- END COL -->
             <div class="col-sm-3">
                 <div class="pricing-table-default text-center">
                     <div class="pricing-head">
@@ -90,5 +90,5 @@
             </div><!--- END COL -->
         </div><!--- END ROW -->
     </div><!--- END CONTAINER-->
-</section>
+</section>s
 <!-- END PRICING -->

@@ -1,5 +1,5 @@
 <!-- START COUNDOWN -->
-<section class="counter_feature">
+<section class="counter_feature" id="stats">
     <div class="container">
         <div class="row text-center">
             <div class="col-md-3 col-sm-6 col-xs-12 wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.2s"
