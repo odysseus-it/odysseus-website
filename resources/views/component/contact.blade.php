@@ -1,5 +1,5 @@
 <!-- START CONTACT ADDRESS -->
-<div class="contact-address">
+<div id="contact" class="contact-address">
     <div class="container">
         <div class="row text-center">
             <div class="col-md-3 col-sm-6 col-xs-12">
