@@ -4,7 +4,7 @@
         <div class="row">
             <div class="col-md-12 col-sm-12 text-center wow zoomIn">
                 <div class="footer_logo">
-                    <a href="index.html"><img src="assets/img/logo.png" alt=""/></a>
+                    <a href="/"><img src="assets/img/logo.png" alt=""/></a>
                 </div>
                 <div class="footer_social">
                     <ul>
