@@ -33,10 +33,14 @@
                                             <h4>Branding</h4>
                                             <p>Lorem ipsum dolor sit amet</p>
                                             <div class="sing_link_img">
-                                                <a href="assets/img/portfolio/1.jpg" class="lightbox search"
-                                                   data-gall="gall-work"><i class="fa fa-eye"></i></a>
-                                                <a href="single_project.html" target="_blank" class="link"><i
-                                                        class="fa fa-link"></i></a>
+                                                <a href="assets/img/portfolio/1.jpg"
+                                                   class="lightbox search"
+                                                   data-gall="gall-work">
+                                                    <i class="fa fa-eye"></i>
+                                                </a>
+                                                <a href="single_project.html" target="_blank" class="link">
+                                                    <i class="fa fa-link"></i>
+                                                </a>
                                             </div>
                                         </div>
                                     </div>
@@ -56,10 +60,14 @@
                                             <h4>Webdesign</h4>
                                             <p>Lorem ipsum dolor sit amet</p>
                                             <div class="sing_link_img">
-                                                <a href="assets/img/portfolio/2.jpg" class="lightbox search"
-                                                   data-gall="gall-work"><i class="fa fa-eye"></i></a>
-                                                <a href="single_project.html" target="_blank" class="link"><i
-                                                        class="fa fa-link"></i></a>
+                                                <a href="assets/img/portfolio/2.jpg"
+                                                   class="lightbox search"
+                                                   data-gall="gall-work">
+                                                    <i class="fa fa-eye"></i>
+                                                </a>
+                                                <a href="single_project.html" class="link" target="_blank">
+                                                    <i class="fa fa-link"></i>
+                                                </a>
                                             </div>
                                         </div>
                                     </div>
@@ -79,10 +87,16 @@
                                             <h4>Package</h4>
                                             <p>Lorem ipsum dolor sit amet</p>
                                             <div class="sing_link_img">
-                                                <a href="assets/img/portfolio/3.jpg" class="lightbox search"
-                                                   data-gall="gall-work"><i class="fa fa-eye"></i></a>
-                                                <a href="single_project.html" target="_blank" class="link"><i
-                                                        class="fa fa-link"></i></a>
+                                                <a href="assets/img/portfolio/3.jpg"
+                                                   class="lightbox search"
+                                                   data-gall="gall-work">
+                                                    <i class="fa fa-eye"></i>
+                                                </a>
+                                                <a href="single_project.html"
+                                                   target="_blank"
+                                                   class="link">
+                                                    <i class="fa fa-link"></i>
+                                                </a>
                                             </div>
                                         </div>
                                     </div>
@@ -99,13 +113,19 @@
                                 <div class="sing_work_text_link">
                                     <div class="sing_work_content_wrap">
                                         <div class="sing_work_content">
-                                             <h4>Video</h4> 
+                                            <h4>Video</h4>
                                             <p>Lorem ipsum dolor sit amet</p>
                                             <div class="sing_link_img">
-                                                <a href="assets/img/portfolio/4.jpg" class="lightbox search"
-                                                   data-gall="gall-work"><i class="fa fa-eye"></i></a>
-                                                <a href="single_project.html" target="_blank" class="link"><i
-                                                        class="fa fa-link"></i></a>
+                                                <a href="assets/img/portfolio/4.jpg"
+                                                   class="lightbox search"
+                                                   data-gall="gall-work">
+                                                    <i class="fa fa-eye"></i>
+                                                </a>
+                                                <a href="single_project.html"
+                                                   target="_blank"
+                                                   class="link">
+                                                    <i class="fa fa-link"></i>
+                                                </a>
                                             </div>
                                         </div>
                                     </div>
@@ -148,10 +168,15 @@
                                             <h4>Branding</h4>
                                             <p>Lorem ipsum dolor sit amet</p>
                                             <div class="sing_link_img">
-                                                <a href="assets/img/portfolio/6.jpg" class="lightbox search"
-                                                   data-gall="gall-work"><i class="fa fa-eye"></i></a>
-                                                <a href="single_project.html" target="_blank" class="link"><i
-                                                        class="fa fa-link"></i></a>
+                                                <a href="assets/img/portfolio/6.jpg"
+                                                   class="lightbox search"
+                                                   data-gall="gall-work">
+                                                    <i class="fa fa-eye"></i>
+                                                </a>
+                                                <a href="single_project.html"
+                                                   target="_blank"
+                                                   class="link">
+                                                    <i class="fa fa-link"></i></a>
                                             </div>
                                         </div>
                                     </div>
