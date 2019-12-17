@@ -39,10 +39,26 @@
                             <h4>Maria Lapturova</h4>
                             <p>Front-End Developer</p>
                             <ul class="social">
-                                <li><a href="" target="_blank"><i class="fab fa-facebook facebook"></i></a></li>
-                                <li><a href="https://www.instagram.com/marylaptu/?igshid=14b0vfn71zx2t" target="_blank"><i class="fab fa-instagram instagram"></i></a></li>
-                                <li><a href="" target="_blank"><i class="fab fa-github github"></i></a></li>
-                                <li><a href="" target="_blank"><i class="fab fa-linkedin linkedin"></i></a></li>
+                                <li>
+                                    <a href="" target="_blank">
+                                        <i class="fab fa-facebook facebook"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://www.instagram.com/marylaptu/?igshid=14b0vfn71zx2t" target="_blank">
+                                        <i class="fab fa-instagram instagram"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="" target="_blank">
+                                        <i class="fab fa-github github"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="" target="_blank">
+                                        <i class="fab fa-linkedin linkedin"></i>
+                                    </a>
+                                </li>
                             </ul>
                         </div>
                     </div>
@@ -59,10 +75,26 @@
                             <h4>Sergey Gnip</h4>
                             <p>CEO</p>
                             <ul class="social">
-                                <li><a href="#" target="_blank"><i class="fab fa-facebook facebook"></i></a></li>
-                                <li><a href="https://www.instagram.com/lalajon.inc/?igshid=nrfphcn9rjk5" target="_blank"><i class="fab fa-instagram instagram"></i></a></li>
-                                <li><a href="https://github.com/lalajon" target="_blank"><i class="fab fa-fab fa-github github"></i></a></li>
-                                <li><a href="https://www.linkedin.com/in/gnip/" target="_blank"><i class="fab fa-linkedin linkedin"></i></a></li>
+                                <li>
+                                    <a href="#" target="_blank">
+                                        <i class="fab fa-facebook facebook"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://www.instagram.com/lalajon.inc/?igshid=nrfphcn9rjk5" target="_blank">
+                                        <i class="fab fa-instagram instagram"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://github.com/lalajon" target="_blank">
+                                        <i class="fab fa-fab fa-github github"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://www.linkedin.com/in/gnip/" target="_blank">
+                                        <i class="fab fa-linkedin linkedin"></i>
+                                    </a>
+                                </li>
                             </ul>
                         </div>
                     </div>
@@ -79,10 +111,26 @@
                             <h4>Alexander Ignatushin</h4>
                             <p>Programmer</p>
                             <ul class="social">
-                                <li><a href="#" target="_blank"><i class="fab fa-facebook facebook"></i></a></li>
-                                <li><a href="https://www.instagram.com/stupidpes/" target="_blank"><i class="fab fa-instagram instagram"></i></a></li>
-                                <li><a href="https://github.com/alexandrignatushin" target="_blank"><i class="fab fa-github github"></i></a></li>
-                                <li><a href="https://www.linkedin.com/in/alexandr-ignatushin-864939195/" target="_blank"><i class="fab fa-linkedin linkedin"></i></a></li>
+                                <li>
+                                    <a href="#" target="_blank">
+                                        <i class="fab fa-facebook facebook"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://www.instagram.com/stupidpes/" target="_blank">
+                                        <i class="fab fa-instagram instagram"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://github.com/alexandrignatushin" target="_blank">
+                                        <i class="fab fa-github github"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://www.linkedin.com/in/alexandr-ignatushin-864939195/" target="_blank">
+                                        <i class="fab fa-linkedin linkedin"></i>
+                                    </a>
+                                </li>
                             </ul>
                         </div>
                     </div>
