@@ -25,35 +25,33 @@
                             <div class="cover-container">
                                 <div class="single_testimonial">
                                     <img src="assets/img/testimonial/1.jpg" alt=""/>
-                                    <h3>Syed Ekram</h3>
-                                    <h4>Company Name</h4>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nisi metus,
-                                        tristique ndolor non, ornare sagittis dolor. Nulla vestibulu lacus sed molestie
-                                        gravida.</p>
+                                    <h3>Kristian Robinson</h3>
+                                    <h4>Axisbits</h4>
+                                    <p>Super fast responses, quick to take action on the task and good work. A+++
+                                    </p>
                                 </div>
                             </div>
                         </div><!--- END ITEM -->
                         <div class="item">
                             <div class="cover-container">
                                 <div class="single_testimonial">
-                                    <img src="assets/img/testimonial/1.jpg" alt=""/>
-                                    <h3>Syed Ekram</h3>
-                                    <h4>Company Name</h4>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nisi metus,
-                                        tristique ndolor non, ornare sagittis dolor. Nulla vestibulu lacus sed molestie
-                                        gravida.</p>
+                                    <img src="assets/img/testimonial/2.jpg" alt=""/>
+                                    <h3>Sherilyn Lambert</h3>
+                                    <h4>ArgonTech</h4>
+                                    <p>Very talented and fast! Highly recommended.</p>
                                 </div>
                             </div>
                         </div><!--- END ITEM -->
                         <div class="item">
                             <div class="cover-container">
                                 <div class="single_testimonial">
-                                    <img src="assets/img/testimonial/1.jpg" alt=""/>
-                                    <h3>Syed Ekram</h3>
-                                    <h4>Company Name</h4>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nisi metus,
-                                        tristique ndolor non, ornare sagittis dolor. Nulla vestibulu lacus sed molestie
-                                        gravida.</p>
+                                    <img src="assets/img/testimonial/3.jpg" alt=""/>
+                                    <h3>Silvester Welch</h3>
+                                    <h4>SoftProdigy</h4>
+                                    <p>Awesome! Excellent work. 
+                                       They delivered great result in short time within budget.
+                                       Also they is very good at English. I am satisfied with result.
+                                       Thank so much.</p>
                                 </div>
                             </div>
                         </div><!--- END ITEM -->
