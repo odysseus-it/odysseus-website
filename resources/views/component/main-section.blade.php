@@ -1,12 +1,12 @@
 <!-- START HOME -->
 <section id="home" class="welcome-area">
     <div class="welcome-slider-area">
-        <div id="welcome-slide-carousel" class="carousel slide carousel-fade" data-ride="carousel">
+        {{--<div id="welcome-slide-carousel" class="carousel slide carousel-fade" data-ride="carousel">
             <ol class="carousel-indicators carousel-indicators-slider">
                 <li data-target="#welcome-slide-carousel" data-slide-to="0" class="active"></li>
                 <li data-target="#welcome-slide-carousel" data-slide-to="1"></li>
                 <li data-target="#welcome-slide-carousel" data-slide-to="2"></li>
-            </ol>
+            </ol>--}}
             <div class="carousel-inner" role="listbox">
                 <div class="item active">
                     <div class="single-slide-item slide-1">
