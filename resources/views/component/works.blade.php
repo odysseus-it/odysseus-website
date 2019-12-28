@@ -105,7 +105,7 @@
                         </div>
                     </div>
                 </div><!--- END COL -->
-                <div class="grid-item col-md-4 col-sm-4 col-xs-12 mix all branding package video">
+                {{--<div class="grid-item col-md-4 col-sm-4 col-xs-12 mix all branding package video">
                     <div class="single_our_work">
                         <div class="sing_work_photo">
                             <figure>
@@ -133,7 +133,7 @@
                             </figure>
                         </div>
                     </div>
-                </div><!--- END COL -->
+                </div><!--- END COL -->--}}
                 <div class="grid-item col-md-4 col-sm-4 col-xs-12 mix all branding package">
                     <div class="single_our_work">
                         <div class="sing_work_photo">
