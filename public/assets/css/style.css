@@ -244,11 +244,11 @@ fieldset {
 } 
 @media only screen and (max-width:480px) { 
     .menu-top {
-        color: #313131 ;
+        color: #000000 ;
         margin-left: 0px;
     }
 }
-.navbar-default.menu-shrink li a { color: #313131 !important  }
+.navbar-default.menu-shrink li a { color: #000000 !important  }
 .navbar-default.menu-shrink li a:hover { color: #001ae2  }
 .navbar-default .navbar-toggle { background: #fff none repeat scroll 0 0 }
 .navbar-default .navbar-toggle:hover,
@@ -1417,8 +1417,13 @@ padding: 20px 0;
     background: #ffffff;
     transition: 0.3s;
     }
+
+    .menu-shrink ul.navbar-nav li a::before {
+        background: #000;
+    }
+
     ul.navbar-nav li a:hover {
-    color: rgb(255, 255, 255);
+    color: rgb(250, 250, 250);
     }
     
     ul.navbar-nav li a:hover::before {
@@ -1445,4 +1450,5 @@ padding: 20px 0;
     z-index: -1;
     }
     }
+    
 
