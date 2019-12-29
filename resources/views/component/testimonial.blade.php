@@ -48,7 +48,7 @@
                                     <img src="assets/img/testimonial/3.jpg" alt=""/>
                                     <h3>Silvester Welch</h3>
                                     <h4>SoftProdigy</h4>
-                                    <p>Awesome! Excellent work. They delivered great result in short time</p>
+                                    <p>Awesome! Excellent work. They delivered great result in short time.</p>
                                 </div>
                             </div>
                         </div><!--- END ITEM -->
