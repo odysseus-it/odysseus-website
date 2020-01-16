@@ -41,7 +41,7 @@
 
 .single_feature:hover i {color: #001ae2;}
 
-.service:hover {background:#001ae2;border: 2px solid #001ae2;}
+.service:hover {background: 0;border: 2px solid #fcfcfc;}
 
 .service:hover .icon {color: #001ae2;}
 
@@ -86,6 +86,6 @@
 
 .btn-contact-bg {background: #001ae2 none repeat scroll 0 0;}
 
-.contact-address {background: #001ae2 none repeat scroll 0 0;}
+.contact-address {background: #000000 none repeat scroll 0 0;}
 
 .copyright a {color: #001ae2;}
